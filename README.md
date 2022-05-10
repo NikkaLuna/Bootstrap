@@ -1,12 +1,10 @@
 # Bootstrap Project
 
-This project was created in Atom Version 1.59.0.
-
 Using Bootstrap, this project depicts a fictitious website for Adhoc, an office administration website. 
  
 This code demonstrates the use of a Jumbotron, Card, and a Carousel within the website.  
 
-
+This project was created in Atom Version 1.59.0.
 
 
 
